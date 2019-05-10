@@ -17,10 +17,10 @@ namespace InsERT_GT
             {
                 InsERT.GT gt = new InsERT.GT();
                 gt.Produkt = InsERT.ProduktEnum.gtaProduktSubiekt;
-                gt.Serwer = "PC-DOMINIKA\\INSERTGT";
-                gt.Baza = "CBMAX";
+                gt.Serwer = "";
+                gt.Baza = "";
                 gt.Autentykacja = InsERT.AutentykacjaEnum.gtaAutentykacjaMieszana;
-                gt.Uzytkownik = "sa";
+                gt.Uzytkownik = "";
                 gt.UzytkownikHaslo = "";
                 gt.Operator = "";
                 gt.OperatorHaslo = "";
